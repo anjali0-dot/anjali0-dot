@@ -108,17 +108,17 @@
 
 ---
 
-# 🌟 My Goals
+# 🚀 Featured Projects
 
-🎯 Become a skilled **AI/ML Engineer**
+### 📈 FinRisk
 
-📊 Build impactful **Data Analytics solutions**
+**AI-Powered Financial Risk Analytics Platform**
 
-🧠 Create useful **Generative AI applications**
+---
 
-🤖 Explore the future of **Agentic AI**
+### 🏋️ AI Gym Trainer
 
-🚀 Keep learning and growing every day
+**Real-Time Pose Detection & Workout Assistant**
 
 ---
 
