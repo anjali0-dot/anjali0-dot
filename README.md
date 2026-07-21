@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Anjali Singh
 
-## 🎓 B.Tech CSE Student | 🤖 AI & ML Enthusiast | 🚀 Future AI Engineer
+## 🎓 B.Tech CSE (AI & ML) | 🤖 AI/ML Enthusiast | 📊 Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+Love+Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Solutions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+%7C+GenAI+%7C+RAG;Exploring+Agentic+AI+%26+LLMs;Building+Intelligent+Solutions+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -16,17 +16,13 @@
 
 # 🚀 About Me
 
-### 🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech CSE (AI & ML) | 2027 Graduate**
 
-### 🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Agentic AI, and Data Analytics.**
 
-### 🧠 Currently learning Deep Learning and Generative AI
+💡 Building intelligent AI systems that solve real-world problems.
 
-### 💡 Building intelligent solutions for real-world problems
-
-### 🌱 Always learning. Always building. Always improving.
-
-### 📍 India 🇮🇳
+🌱 Always learning, building, and exploring the future of AI.
 
 ---
 
@@ -37,8 +33,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🤖 AI / Machine Learning
+---
+
+## 🤖 AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
@@ -46,18 +45,52 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 🧠 Generative AI
+---
+
+## 🧠 Generative AI & RAG
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+
+---
+
+## 📊 Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+---
 
 ## 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 📚 Currently Learning
+
+🔹 Deep Learning
+
+🔹 Generative AI
+
+🔹 Retrieval-Augmented Generation (RAG)
+
+🔹 Large Language Models (LLMs)
+
+🔹 Agentic AI
+
+🔹 Data Analytics
+
+🔹 Data Structures & Algorithms
 
 ---
 
@@ -75,31 +108,17 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 My Goals
 
-## 🤖 Artificial Intelligence Projects
+🎯 Become a skilled **AI/ML Engineer**
 
-🔹 AI-based intelligent applications
+📊 Build impactful **Data Analytics solutions**
 
-🔹 Machine Learning prediction projects
+🧠 Create useful **Generative AI applications**
 
-🔹 Python-based automation projects
+🤖 Explore the future of **Agentic AI**
 
-🔹 Generative AI projects
-
----
-
-# 📚 Currently Learning
-
-🔹 Deep Learning
-
-🔹 Generative AI
-
-🔹 Large Language Models
-
-🔹 Data Structures & Algorithms
-
-🔹 Advanced Machine Learning
+🚀 Keep learning and growing every day
 
 ---
 
@@ -123,6 +142,6 @@
 
 # ⭐ Thanks for visiting my profile! ⭐
 
-## 💙 Keep Learning • Keep Building • Keep Growing 🚀
+## 🚀 Keep Learning • Keep Building • Keep Growing 💙
 
 </div>
