@@ -110,9 +110,9 @@
 
 # 🚀 Featured Projects
 
-### 📈 FinRisk
+###🎥 YouTube Video Analyzer AI Agent
 
-**AI-Powered Financial Risk Analytics Platform**
+Transcript Extraction, Summarization & Intelligent Q&A
 
 ---
 
