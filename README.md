@@ -110,7 +110,7 @@
 
 # 🚀 Featured Projects
 
-🎥 YouTube Video Analyzer AI Agent
+### 🎥 YouTube Video Analyzer AI Agent
 
 **Transcript Extraction, Summarization & Intelligent Q&A**
 
