@@ -112,7 +112,7 @@
 
 ###🎥 YouTube Video Analyzer AI Agent
 
-Transcript Extraction, Summarization & Intelligent Q&A
+**Transcript Extraction, Summarization & Intelligent Q&A**
 
 ---
 
