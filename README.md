@@ -127,7 +127,7 @@
 <div align="center">
 
 <a href="mailto:singhanjali24524@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=singhanjali24524@gmail.com)
 </a>
 
 <a href="https://www.linkedin.com/in/anjali-singh-2204622b8">
